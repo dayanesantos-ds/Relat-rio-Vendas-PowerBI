@@ -15,9 +15,11 @@ Ao longo do desenvolvimento, o foco esteve na criação de um relatório interat
 
 ---
 
-## Visualização do Dashboard (print):  
+## Prévia do Relatório (print):  
 
-![Diagrama do Banco](https://github.com/dayanesantos-ds/power-bi-dashboard-vendas/blob/main/Relat%C3%B3rio%20de%20Vendas%201.png)
+![Diagrama do Banco](https://github.com/dayanesantos-ds/Relatorio-Vendas-PowerBI/blob/main/imagens/relat%C3%B3rio%20pag%201.png)
+
+![Diagrama do Banco](https://github.com/dayanesantos-ds/Relatorio-Vendas-PowerBI/blob/main/imagens/relat%C3%B3rio%20pag%202.png)
 
 ---
 
